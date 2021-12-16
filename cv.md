@@ -10,7 +10,7 @@
 I am 28 years old, at the moment I work in a government job and really want to change it. Because I begin to understand that I am standing still, I am not developing, I am wasting my time stupidly. Why did I decide to choose the job of a programmer, because here you do not stand still, you constantly develop and learn something new, plus there is an incentive to learn other languages. I am willing to work hard and strive to reach new heights.
 
 ## **Work experience:** ##
-In the process of study
+In the process of study. Trying to reach new knowledge.
 
 ## **Code example:** ##
 ```javascript
