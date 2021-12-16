@@ -25,3 +25,12 @@ function convertText(string) {
 };
 convertText ('Hello');
 ```
+## **Education and courses:** ##
+* **Belarusian State Agrarian Technical University**
+  - Faculty of Agromechanical
+* **Pruzhany State Agrarian Technical College**
+  - Faculty of Agromechanical
+* **I also take coursest** 
+  - Сourses [JavaScript](https://learn.javascript.ru)
+  - I study additionally [hexlet](https://ru.hexlet.io/my)
+  - Still reading [htmlacademy](https://htmlacademy.ru)
