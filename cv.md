@@ -34,3 +34,6 @@ convertText ('Hello');
   - Сourses [JavaScript](https://learn.javascript.ru)
   - I study additionally [hexlet](https://ru.hexlet.io/my)
   - Still reading [htmlacademy](https://htmlacademy.ru)
+
+## **Language:** ##
+English level - A1 (I go to courses to improve my language skills to A2 and higher) 
