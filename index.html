@@ -15,7 +15,7 @@
           <div class="contacts-row">
             <div class="contacts__body">
               <h1 class="contacts__title">Sergey Klimuk</h1>
-              <div class="contacts__list">
+              <nav class="contacts__list">
                 <h2>My Contact Info:</h2>
                 <ul>
                   <li>
@@ -31,7 +31,7 @@
                     <b>Phone:</b> <a class="link" href="tel:+375(33)651-54-78">+375 (33) 651-54-78</a>
                   </li>
                 </ul>
-              </div>
+              </nav>
             </div>
             <div class="contacts__img">
               <img src="asset/foto1.jpg" alt="Sergey Klimuk" />
@@ -42,24 +42,30 @@
       <main class="information">
         <div class="container1">
           <div class="information__row">
-            <div class="information__body information__body_1">
-              <h3 class="information__title title">About Me:</h3>
+            <div class="information__body">
+              <h2 class="information__title title">About Me:</h2>
               <div class="information__text">
-                <p>I am 28 years old, at the moment I work in a government job and really want to change it. Because I
-                  begin to understand that I am standing still, I am not developing, I am wasting my time stupidly.</p>
-                <p>Why did I decide to choose the job of a programmer, because here you do not stand still, you
-                  constantly develop and learn something new, plus there is an incentive to learn other languages. I am
-                  willing to work hard and strive to reach new heights.</p>
+                <p>I am 28 years old, at the moment I work in a government job and really want to change it. Because I begin to understand that I am standing still, I am not developing, I am wasting my time stupidly. Why did I decide to choose the job of a programmer, because here you do not stand still, you constantly develop and learn something new, plus there is an incentive to learn other languages. I am willing to work hard and strive to reach new heights.</p>
               </div>
             </div>
-            <div class="information__body information__body_2">
-              <h3 class="information__title title">Work experience:</h3>
+            <div class="information__body">
+              <h2 class="information__title title">Work experience:</h2>
               <div class="information__text">
                 In the process of study.
               </div>
             </div>
-            <div class="information__body information__body_3">
-              <h3 class="information__title title">Code example:</h3>
+            <div class="information__body">
+                <h2 class="information__title title">Skills:</h2>
+                <div class="information__text">
+                  <ul>
+                    <li class="dot">HTML5</li>
+                    <li class="dot">CSS3, SCSS</li>
+                    <li class="dot">JS basic</li>
+                  </ul>
+              </div>
+            </div>
+            <div class="information__body">
+              <h2 class="information__title title">Code example:</h2>
               <div class="information__text">
                 <pre>
 									<code>
@@ -67,7 +73,7 @@
 		function dec2bin(dec) {
 		return (dec >>> 0).toString(2);
 		} 
-		var sum = a+b; 
+		let sum = a+b; 
 		return sum.toString(2);
 	} 
 	addBinary(2, 3);
@@ -75,14 +81,14 @@
 								</pre>
               </div>
             </div>
-            <div class="information__body information__body_3">
-              <h3 class="information__title title">Education and courses:</h3>
+            <div class="information__body">
+              <h2 class="information__title title">Education and courses:</h2>
               <div class="information__text">
                 <ol>
                   <li>
                     Belarusian State Agrarian Technical University
                     <ul class="item">
-                      <li>
+                      <li class="dot">
                         Faculty of Agromechanical
                       </li>
                     </ul>
@@ -90,7 +96,7 @@
                   <li>
                     Pruzhany State Agrarian Technical College
                     <ul class="item">
-                      <li>
+                      <li class="dot">
                         Faculty of Agromechanical
                       </li>
                     </ul>
@@ -98,13 +104,13 @@
                   <li>
                     I also take coursest
                     <ul class="item">
-                      <li>
+                      <li class="dot">
                         Сourses <a class="link" href="http://learn.javascript.ru">JavaScript</a>
                       </li>
-                      <li>
+                      <li class="dot">
                         I study additionally <a class="link" href="http://ru.hexlet.io/my">hexlet</a>
                       </li>
-                      <li>
+                      <li class="dot">
                         Still reading <a class="link" href="http://htmlacademy.ru">htmlacademy</a>
                       </li>
                     </ul>
@@ -112,10 +118,10 @@
                 </ol>
               </div>
             </div>
-            <div class="information__body information__body_4">
-              <h3 class="information__title title">Language:</h3>
+            <div class="information__body">
+              <h2 class="information__title title">Language:</h2>
               <div class="information__text">
-                English level - A1 (I go to courses to improve my language skills to A2 and higher)
+                English level - A1 (I go to courses to improve my language skills to A2 and higher).
               </div>
             </div>
           </div>
