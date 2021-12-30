@@ -90,6 +90,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  -webkit-box-shadow: 3px 1px 50px black;
+          box-shadow: 3px 1px 50px black;
 }
 
 .content {
