@@ -10,6 +10,7 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  box-shadow: 3px 1px 50px black;
 }
 .content {
   flex: 1 1 auto;
